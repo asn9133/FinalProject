@@ -1,0 +1,64 @@
+#footer {
+    position: absolute;
+    text-align: center;
+    left: 0;
+    bottom:0;
+    width:100%;
+    background-color: grey;
+    color: white;
+ }
+
+ #t1{
+     line-height: 1;
+ }
+
+ #f1{
+    position: fixed;
+    text-align: center;
+    left: 0;
+    bottom: 0;
+    width:100%;
+    background-color: grey;
+    color: white;
+ }
+
+ #f2{
+    position: fixed; 
+    text-align: center;
+    left: 0;
+    bottom: 0;
+    width:100%;
+    background-color: grey;
+    color: white;
+ }
+
+ #f3{
+    position: fixed; 
+    text-align: center;
+    left: 0;
+    bottom: 0;
+    width:100%;
+    background-color: grey;
+    color: white;
+ }
+
+ #f4{
+    position: fixed; 
+    text-align: center;
+    left: 0;
+    bottom: 0;
+    width:100%;
+    background-color: grey;
+    color: white;
+ }
+
+ #f5{
+    position: fixed; 
+    text-align: center;
+    left: 0;
+    bottom: 0;
+    width:100%;
+    background-color: grey;
+    color: white;
+ }
+
